@@ -84,4 +84,9 @@ http://localhost:5173
 
 🔗 LinkedIn: https://linkedin.com/in/ambrish-rao-918164251
 
+git add . 
+git commit -m "Updated portfolio" 
+git push
+
+
 Made with ❤️ by Ambrish Rao
