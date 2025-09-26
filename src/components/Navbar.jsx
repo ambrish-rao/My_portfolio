@@ -77,7 +77,7 @@ const Navbar = () => {
           {/* Social Icons */}
           <div className="flex items-center gap-4 ml-4">
             <a
-              href="https://github.com/anurag7276"
+              href="https://github.com/ambrish-rao"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400"
@@ -85,7 +85,7 @@ const Navbar = () => {
               <FaGithub size={20} />
             </a>
             <a
-              href="https://www.linkedin.com/in/anurag-singh-6366a1293/"
+              href="https://www.linkedin.com/in/ambrish-rao-918164251/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400"
@@ -93,7 +93,7 @@ const Navbar = () => {
               <FaLinkedin size={20} />
             </a>
             <a
-              href="https://x.com/AnuragS23723755"
+              href="https://x.com/ambrish_rao89"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400"
@@ -140,7 +140,7 @@ const Navbar = () => {
             {/* Mobile Socials */}
             <div className="flex gap-6 pt-4">
               <a
-                href="https://github.com/anurag7276"
+                href="https://github.com/ambrish-rao"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-cyan-400"
@@ -148,7 +148,7 @@ const Navbar = () => {
                 <FaGithub size={20} />
               </a>
               <a
-                href="https://www.linkedin.com/in/anurag-singh-6366a1293/"
+                href="https://www.linkedin.com/in/ambrish-rao-918164251/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-cyan-400"
@@ -156,7 +156,7 @@ const Navbar = () => {
                 <FaLinkedin size={20} />
               </a>
               <a
-                href="https://x.com/AnuragS23723755"
+                href="https://x.com/ambrish_rao89"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-cyan-400"

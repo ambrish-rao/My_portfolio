@@ -22,7 +22,7 @@ function Hero() {
           <TypeAnimation
             sequence={[
               "Full Stack MERN Developer", 1700,
-              "AI-Powered Application Builder", 1700,
+              "Innovative Web Architect", 1700,
               "React.js & Node.js Specialist", 1700,
               "Scalable Web Solutions Expert", 1700,
               "Problem Solver & Fast Learner", 1700
